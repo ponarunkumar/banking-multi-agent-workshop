@@ -80,10 +80,13 @@ You can run this sample app and workshop virtually by using GitHub Codespaces. T
    ```
 
 3. Open the repository in VS Code and select **Reopen in Container** when prompted.
+   (** Reopen in Container ** prompt will be activated only when the dev container extension is installed in vscode.)
 
-4. Wait for the container to build and start. This is a one time operation and may take a few minutes.
+4. Run Docker Desktop and make sure docker engine is running. then continue to reopen the repo to have the reopen in container prompt (select the c# or python dev container as applicable)
 
-5. Move on to the [Deployment](Module-00.md#deployment) section.
+5. Wait for the container to build and start. This is a one time operation and may take a few minutes.
+
+6. Move on to the [Deployment](Module-00.md#deployment) section.
 
 #### Local Environment without VS Code Dev Containers
 
